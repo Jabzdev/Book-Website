@@ -1,8 +1,8 @@
 ========== HEADER ==========
-.nav__logo
+.nav-logo
 E-Book
 
-.nav__link
+.nav-link
 Home - Featured - Discount - New Books - Testimonial
 
 
@@ -12,7 +12,7 @@ What are you looking for?
 
 
 ========== LOGIN ==========
-login__title
+login-title
 Log In
 
 .login__label placeholder
@@ -22,21 +22,21 @@ Write your email
 Password
 Enter your password
 
-.login__signup
+.login-signup
 You do not have an account? <a href="#">Sign up</a>
 
-.login__forgot
+.login-forgot
 You forgot your password
 
-.login__button
+.login-button
 Log In
 
 ========== HOME ==========
-.home__title
+.home-title
 Browse & <br>
 Select E-Books
 
-.home__description
+.home-description
 Find the best e-books from your favorite 
 writers, explore hundreds of books with all 
 possible categories, take advantage of the 
