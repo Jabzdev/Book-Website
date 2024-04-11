@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav-logo
-E-Book
+StoryStack
 
 .nav-link
 Home - Featured - Discount - New Books - Testimonial
@@ -119,7 +119,7 @@ is very easy to make and has great discounts.
 
 ========== FOOTER ==========
 .footer__logo
-E-Book
+StoryStack
 
 .footer__description
 Find and explore the best <br>
@@ -152,4 +152,4 @@ Social
  https://twitter.com/
 
 .footer__copy
-&#169; All Rights Reserved By Bedimcode
+&#169; All Rights Reserved By Jabz.dev

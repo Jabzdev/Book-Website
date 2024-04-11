@@ -94,10 +94,33 @@ let swiperFeatured = new Swiper('.featured-swiper', {
 });
 
 /*=============== NEW SWIPER ===============*/
+let swiperNew = new Swiper('.new-swiper', {
+  loop: true,
+  spaceBetween: 16,
+  slidesPerView: 'auto',
 
+  breakpoints: {
+    1150: {
+      slidesPerView: 3,
+    }
+  }
+});
 
 /*=============== TESTIMONIAL SWIPER ===============*/
+let swiperTestimonial = new Swiper('.testimonial-swiper', {
+  loop: true,
+  spaceBetween: 16,
+  grabCursor: true,
+  slidesPerView: 'auto',
+  centeredSlides: 'auto',
 
+  breakpoints: {
+    1150: {
+      slidesPerView: 3,
+      centeredSlides: false,
+    }
+  }
+});
 
 /*=============== SHOW SCROLL UP ===============*/ 
 
